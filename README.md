@@ -5,7 +5,7 @@
 .
 #
 <p align='center'>
-    <img src = 'text.jpg'>
+    <img src = 'image/text.jpg'>
 
 </p>
 
@@ -16,8 +16,7 @@
  - Git e Github;
  - Algoritmos de Classificação;
  - Pacotes de Machine Learning Sklearn e Nltk;
- - Técnicas de Redução de Dimensionalidade;
- - Flask e Python API's
+ - Técnicas de Redução de Dimensionalidade.
 
  # Atributos
 | Column          | Description                                       |
@@ -53,7 +52,7 @@
 Este projeto de estudo no campo de Processamento de Linguagem Natural (PLN) e construção de modelos de classificação foi uma jornada educativa e desafiadora. A observação crítica da dimensionalidade dos dados e a aplicação de técnicas como PCA forneceram insights valiosos. Embora o modelo inicial tenha atingido uma precisão de 50%, os próximos passos claros, como Hyperparameter Fine Tuning e criação de novas features, delineiam um caminho para melhorias. 
 
 <p align='center'>
-    <img src = 'performance.jpg'>
+    <img src = 'image/performance.jpg'>
 
 </p>
 
